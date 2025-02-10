@@ -41,3 +41,23 @@ button {
   font-weight: bold;
   cursor: pointer;
 }
+
+button:hover {
+  background-color: rgb(102, 102, 102);
+}
+
+button:active {
+  background-color: rgb(128, 128, 128);
+}
+
+.operator-button {
+  background-color: orange;
+}
+
+.operator-button:hover {
+  background-color: rgb(255, 165, 0);
+}
+
+.operator-button:active { 
+  background-color: rgb(255, 128, 0);
+}
