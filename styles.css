@@ -18,9 +18,10 @@ body {
   width: 100%;
   padding: 20px;
   font-size: 80px;
-  text-align: right;
+  text-align: left;
   border: none;
   background-color: rgb(64, 64, 64);
+  color: white;
 }
 
 #buttons {
