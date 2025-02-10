@@ -1,3 +1,11 @@
+body {
+  margin: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
 #calculator {
   background-color: rgb(46, 46, 46);
   font-family: Arial, sans-serif;
